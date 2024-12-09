@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mitchdpg
-- 👀 Interested in constantly acquiring tech knowledge to add to my toolbox
+- 👀 Interested in acquiring tech knowledge to add to my toolbox
 - 🌱 Relentless learner
-- 💞️ I’m looking to collaborate on Apple related management projects
+-   I’m looking to collaborate on Apple related management projects
 - 📫 How to reach me... if you know me you'll know how
 
 <!---
