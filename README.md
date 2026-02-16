@@ -1,4 +1,4 @@
-# Hi, I'm Mitch
+# 👋 Hi, I'm Mitch
 
 &nbsp;
 
