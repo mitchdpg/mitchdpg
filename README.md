@@ -1,14 +1,17 @@
 ## 👋 Hi, I’m Mitch
 
+
 ## About Me
 
  I like tinkering with tech, testing software builds, and creating small tools that make my life easier.
+
 
 ## What I Work With
 
 CyberArk (Identity, SCA, SIA), Salesforce, AWS, Jamf, OAuth 2.0, REST APIs
 
 **Tools:** Python, SQL, Bash, Terminal/CLI
+
 
 ## Projects
 
