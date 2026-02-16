@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Mitch
-- 👀 Interested in expanding to my tech toolbox
-- 🌱 Relentless learner
--  Happy to collaborate on technical projects
+👋 Hi, I’m Mitch
 
 ## About Me
 
